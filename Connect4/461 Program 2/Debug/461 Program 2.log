@@ -1,0 +1,8 @@
+﻿  MCTS.cpp
+c:\users\antho\documents\visual studio 2017\projects\c++ projects\461 program 2\461 program 2\mcts.cpp(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\antho\documents\visual studio 2017\projects\c++ projects\461 program 2\461 program 2\mcts.cpp(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\antho\documents\visual studio 2017\projects\c++ projects\461 program 2\461 program 2\mcts.cpp(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\antho\documents\visual studio 2017\projects\c++ projects\461 program 2\461 program 2\mcts.cpp(149): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\antho\documents\visual studio 2017\projects\c++ projects\461 program 2\461 program 2\mcts.cpp(151): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\antho\documents\visual studio 2017\projects\c++ projects\461 program 2\461 program 2\mcts.cpp(79): warning C4715: 'MCTS::playout': not all control paths return a value
+  461 Program 2.vcxproj -> C:\Users\antho\Documents\Visual Studio 2017\Projects\C++ Projects\461 Program 2\Debug\461 Program 2.exe
